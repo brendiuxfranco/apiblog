@@ -1,4 +1,4 @@
-# Blog Node REST API
+# Blog with Node
 
 ## Installation Dependencies
 
